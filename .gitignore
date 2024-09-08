@@ -1,3 +1,4 @@
-*.jpg
-*.ini
-*.png
+/images
+/assets
+/DirectionHover
+/CircularContentCarousel
